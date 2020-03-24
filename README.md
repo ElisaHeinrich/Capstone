@@ -11,4 +11,4 @@ In this repository, I have the following files:
 
 - KEM network: Implementations of a KEM model in different network structures, with nodes interacting based on a certain transaction function to simulate economic transactions. 
 
-- City Distributions: Code for the replication and empirical analysis of MSA in the United States.  
+- City Distributions: Code for the replication and empirical analysis of MSA in the United States. Data available under request. Please contact elisa.heinrich@minerva.kgi.edu
